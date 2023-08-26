@@ -5,7 +5,6 @@
 </p>
 <h1 align="center">
   Hello, I'm Safa Aljalaad
-  <img src="" alt="Decorative Element" width="50">
 </h1>
 <p align="center">
   A passionate developer who crafts elegant solutions to complex problems.
