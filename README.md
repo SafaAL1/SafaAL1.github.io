@@ -5,7 +5,7 @@
 </p>
 <h1 align="center">
   Hello, I'm Safa Aljalaad
-  <img src="![1679880178313](https://github.com/SafaAL1/SafaAL1.github.io/assets/127904342/9b987e5f-5f3e-480f-8306-a488e3608f6b)" alt="Decorative Element" width="50">
+  <img src="" alt="Decorative Element" width="50">
 </h1>
 <p align="center">
   A passionate developer who crafts elegant solutions to complex problems.
