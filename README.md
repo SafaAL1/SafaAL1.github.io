@@ -1,7 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="![1679880178313](https://github.com/SafaAL1/SafaAL1.github.io/assets/127904342/9b987e5f-5f3e-480f-8306-a488e3608f6b)
-" alt="Safa Aljalaad" width="100">
+  <img src="![1679880178313](https://github.com/SafaAL1/SafaAL1.github.io/assets/127904342/9b987e5f-5f3e-480f-8306-a488e3608f6b)" alt="Safa Aljalaad" width="100">
 </p>
 <h1 align="center">
   Hello, I'm Safa Aljalaad
