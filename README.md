@@ -42,14 +42,15 @@ A creative project description that highlights the project's uniqueness and impa
 
 <div id="colored-section">
     <!-- Your content goes here -->
-</div>
 
-<style>
+  <style>
 #colored-section {
     background-color: #F5EFE8; /* Replace with your desired background color */
     padding: 20px; /* Add padding for spacing */
 }
 </style>
+</div>
+
 
 <!-- Footer Section -->
 ## 📝 License
