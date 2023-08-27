@@ -14,10 +14,10 @@
 <!-- Projects Section -->
 ## 🚀 Featured Personal & School Projects
 <div style="display: flex; justify-content: space-between;">
-    <img src="me.jpg" alt="Image 1" width="200">
-    <img src="me.jpg" alt="Image 2" width="200">
-    <img src="me.jpg" alt="Image 3" width="200">
-    <img src="me.jpg" alt="Image 4" width="200">
+    <img src="me.jpg" alt="Image 1" width="250">
+    <img src="me.jpg" alt="Image 2" width="250">
+    <img src="me.jpg" alt="Image 3" width="250">
+    <img src="me.jpg" alt="Image 4" width="250">
 </div>
 
 These projects I have developed to improve my coding skills! These range from different languages, framewroks and databases! As I finish more projects I will add them here!
