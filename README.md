@@ -13,16 +13,10 @@
 
 <!-- Projects Section -->
 ## 🚀 Featured Personal & School Projects
-<div style="display: inline-block;">
+<div style="display: flex; justify-content: space-between;">
     <img src="me.jpg" alt="Image 1" width="150">
-</div>
-<div style="display: inline-block;">
     <img src="me.jpg" alt="Image 2" width="150">
-</div>
-<div style="display: inline-block;">
     <img src="me.jpg" alt="Image 3" width="150">
-</div>
-<div style="display: inline-block;">
     <img src="me.jpg" alt="Image 4" width="150">
 </div>
 These projects I have developed to improve my coding skills! These range from different languages, framewroks and databases! As I finish more projects I will add them here!
