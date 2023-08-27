@@ -14,10 +14,11 @@
 <!-- Projects Section -->
 ## 🚀 Featured Projects
 
-### 🌐 Project Name
+### 🌐 Bike Rental Full-stack Website!
 A brief description of the project's purpose, technologies used, and your role in its development.
 [View Project](https://github.com/yourusername/project1)
-
+### 🌐 Weather Application for IOS/ANDROID
+### 🌐 Images changing daily Full-Stack website
 ### 📷 Project Name
 A creative project description that highlights the project's uniqueness and impact.
 [View Project](https://github.com/yourusername/project2)
