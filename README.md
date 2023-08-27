@@ -13,13 +13,6 @@
 
 <!-- Projects Section -->
 ## 🚀 Featured Personal & School Projects
-<div style="display: flex; justify-content: space-between;">
-    <img src="Screenshot 2023-08-27 063242.png" alt="Image 1" width="250">
-    <img src="Screenshot 2023-08-27 064548.png" alt="Image 2" width="250">
-    <img src="Tinder_Logo.png" alt="Image 3" width="250">
-    <img src="me.jpg" alt="Image 4" width="250">
-</div>
-
 These projects I have developed to improve my coding skills! These range from different languages, framewroks and databases! As I finish more projects I will add them here!
 ### 🌐 Bike Rental Full-stack Website!
 A brief description of the project's purpose, technologies used, and your role in its development.
