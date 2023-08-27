@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <p align="center">
-  ![Profile Image](images/me.jpg)
+  <img src="me.jpg" alt="Your Name" width="150">
 </p>
 <h1 align="center">
   Hello, I'm Safa Aljalaad
