@@ -13,6 +13,18 @@
 
 <!-- Projects Section -->
 ## 🚀 Featured Personal & School Projects
+<div style="display: inline-block;">
+    <img src="me.jpg" alt="Image 1" width="150">
+</div>
+<div style="display: inline-block;">
+    <img src="me.jpg" alt="Image 2" width="150">
+</div>
+<div style="display: inline-block;">
+    <img src="me.jpg" alt="Image 3" width="150">
+</div>
+<div style="display: inline-block;">
+    <img src="me.jpg" alt="Image 4" width="150">
+</div>
 These projects I have developed to improve my coding skills! These range from different languages, framewroks and databases! As I finish more projects I will add them here!
 ### 🌐 Bike Rental Full-stack Website!
 A brief description of the project's purpose, technologies used, and your role in its development.
