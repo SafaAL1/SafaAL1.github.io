@@ -1,12 +1,12 @@
 <!-- Header Section -->
 <p align="center">
-  <img src="me.jpg" alt="Your Name" width="150">
+  <img src="me.jpg" alt="Your Name" width="200">
 </p>
 <h1 align="center">
   Hello, I'm Safa Aljalaad
 </h1>
 <p align="center">
-  A passionate developer who crafts elegant solutions to complex problems.
+  An aspiring softwave developer at TMU! I have below everything you need to know about me :)!
 </p>
 
 <!-- Badges/Stats/Intro Section -->
