@@ -12,8 +12,8 @@
 <!-- Badges/Stats/Intro Section -->
 
 <!-- Projects Section -->
-## 🚀 Featured Projects
-
+## 🚀 Featured Personal & School Projects
+These projects I have developed to improve my coding skills! These range from different languages, framewroks and databases! As I finish more projects I will add them here!
 ### 🌐 Bike Rental Full-stack Website!
 A brief description of the project's purpose, technologies used, and your role in its development.
 [View Project](https://github.com/yourusername/project1)
