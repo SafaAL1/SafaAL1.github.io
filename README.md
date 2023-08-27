@@ -24,8 +24,15 @@ These projects I have developed to improve my coding skills! These range from di
 ### 🌐 Bike Rental Full-stack Website!
 A brief description of the project's purpose, technologies used, and your role in its development.
 [View Project](https://github.com/yourusername/project1)
-### 🌐 Weather Application for IOS/ANDROID
+### 🌐 Weather Application for IOS/ANDROID!
+A brief description of the project's purpose, technologies used, and your role in its development.
+[View Project](https://github.com/yourusername/project1)
+### 🌐 Tinder duplicate Full-Stack Website!
+A brief description of the project's purpose, technologies used, and your role in its development.
+[View Project](https://github.com/yourusername/project1)
 ### 🌐 Images changing daily Full-Stack website
+A brief description of the project's purpose, technologies used, and your role in its development.
+[View Project](https://github.com/yourusername/project1)
 ### 📷 Project Name
 A creative project description that highlights the project's uniqueness and impact.
 [View Project](https://github.com/yourusername/project2)
